@@ -22,9 +22,8 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-** Hello Microverse ** is a simple text webpage
+**Hello Microverse** is a simple text webpage
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,7 +46,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Simple text webpage**
+- **Simple text webpage with no features added yet**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,8 +83,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [blessing-michael](https://github.com/blessing-michael)
@@ -98,10 +95,8 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Contact form]**
-- [ ] **[search bar]**
+- **Contact form**
+- **search bar**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,7 +112,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
